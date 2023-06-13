@@ -1,0 +1,1631 @@
+{
+  "ZDS library": {
+    "Brand": {
+      "O500": {
+        "value": "#ff6900",
+        "type": "color",
+        "description": "Zalando Orange"
+      }
+    },
+    "Primary": {
+      "N900": {
+        "value": "#1a1a1a",
+        "type": "color"
+      },
+      "N400": {
+        "value": "#66676e",
+        "type": "color"
+      },
+      "N300": {
+        "value": "#a2a3a8",
+        "type": "color"
+      },
+      "N250": {
+        "value": "#d0d1d3",
+        "type": "color"
+      },
+      "N200": {
+        "value": "#efeff0",
+        "type": "color"
+      },
+      "N100": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "R500": {
+        "value": "#d9000c",
+        "type": "color"
+      },
+      "G400": {
+        "value": "#00875a",
+        "type": "color"
+      },
+      "P600 Highlight Colour": {
+        "value": "#6328e0",
+        "type": "color"
+      }
+    },
+    "Speciality": {
+      "D05D7F (Black Text)": {
+        "value": "#d05d7f",
+        "type": "color"
+      },
+      "FE584D (Black Text)": {
+        "value": "#fe584d",
+        "type": "color"
+      },
+      "F05A2B (Black Text)": {
+        "value": "#f05a2b",
+        "type": "color"
+      },
+      "EB0037 (White Text)": {
+        "value": "#eb0037",
+        "type": "color"
+      },
+      "D83860 (White Text)": {
+        "value": "#d83860",
+        "type": "color"
+      },
+      "BF4D8B (White Text)": {
+        "value": "#bf4d8b",
+        "type": "color"
+      },
+      "D33780 (White Text)": {
+        "value": "#d33780",
+        "type": "color"
+      },
+      "F07AB1 (Black Text)": {
+        "value": "#f07ab1",
+        "type": "color"
+      },
+      "0C7AA4 (White Text)": {
+        "value": "#0c7aa4",
+        "type": "color"
+      },
+      "0D6DFF (White Text)": {
+        "value": "#0d6dff",
+        "type": "color"
+      },
+      "5068EF (White Text)": {
+        "value": "#5068ef",
+        "type": "color"
+      },
+      "2626DE (White Text)": {
+        "value": "#2626de",
+        "type": "color"
+      },
+      "6D5FEF (White Text)": {
+        "value": "#6d5fef",
+        "type": "color"
+      },
+      "8B56EE (White Text)": {
+        "value": "#8b56ee",
+        "type": "color"
+      },
+      "8A4BC3 (White Text)": {
+        "value": "#8a4bc3",
+        "type": "color"
+      },
+      "6328E0 (White Text)": {
+        "value": "#6328e0",
+        "type": "color"
+      },
+      "0C8368 (White Text)": {
+        "value": "#0c8368",
+        "type": "color"
+      },
+      "1F8350 (White Text)": {
+        "value": "#1f8350",
+        "type": "color"
+      },
+      "4C8419 (White Text)": {
+        "value": "#4c8419",
+        "type": "color"
+      },
+      "8AA414 (Black Text)": {
+        "value": "#8aa414",
+        "type": "color"
+      },
+      "C1EC14 (Black Text)": {
+        "value": "#c1ec14",
+        "type": "color"
+      },
+      "FFCF00 (Black Text)": {
+        "value": "#ffcf00",
+        "type": "color"
+      },
+      "F7AA0F (Black Text)": {
+        "value": "#f7aa0f",
+        "type": "color"
+      },
+      "F39260 (Black Text)": {
+        "value": "#f39260",
+        "type": "color"
+      }
+    },
+    "Shadow (Read description!)": {
+      "value": [
+        {
+          "color": "#1a1a1a26",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 22,
+          "spread": 0
+        },
+        {
+          "color": "#00000040",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 4,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow",
+      "description": "This shadow is not in ZDS! Only used for consistency in documentation and mockup purposes. "
+    },
+    "fontFamilies": {
+      "helvetica-now-text": {
+        "value": "Helvetica Now Text",
+        "type": "fontFamilies"
+      },
+      "tiempos-text": {
+        "value": "Tiempos Text",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "36",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "4": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "5": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": "64",
+        "type": "lineHeights"
+      },
+      "7": {
+        "value": "56",
+        "type": "lineHeights"
+      },
+      "8": {
+        "value": "48",
+        "type": "lineHeights"
+      },
+      "9": {
+        "value": "44",
+        "type": "lineHeights"
+      },
+      "10": {
+        "value": "84",
+        "type": "lineHeights"
+      },
+      "11": {
+        "value": "72",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "helvetica-now-text-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "helvetica-now-text-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "tiempos-text-2": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "10": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "11": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "12": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "13": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "14": {
+        "value": "72",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-0.28",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "-0.24",
+        "type": "letterSpacing"
+      },
+      "2": {
+        "value": "-0.2",
+        "type": "letterSpacing"
+      },
+      "3": {
+        "value": "-0.18",
+        "type": "letterSpacing"
+      },
+      "4": {
+        "value": "-0.16",
+        "type": "letterSpacing"
+      },
+      "5": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "6": {
+        "value": "-0.22",
+        "type": "letterSpacing"
+      },
+      "7": {
+        "value": "-0.56",
+        "type": "letterSpacing"
+      },
+      "8": {
+        "value": "-0.48",
+        "type": "letterSpacing"
+      },
+      "9": {
+        "value": "-0.4",
+        "type": "letterSpacing"
+      },
+      "10": {
+        "value": "-0.36",
+        "type": "letterSpacing"
+      },
+      "11": {
+        "value": "-0.32",
+        "type": "letterSpacing"
+      },
+      "12": {
+        "value": "-0.72",
+        "type": "letterSpacing"
+      },
+      "13": {
+        "value": "-0.64",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "App + Mobile web": {
+      "Sans": {
+        "H1": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H2": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H3": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H4": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.3",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H5": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H6": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J1": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.6",
+            "fontSize": "$fontSize.12",
+            "letterSpacing": "$letterSpacing.7",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J2": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.7",
+            "fontSize": "$fontSize.11",
+            "letterSpacing": "$letterSpacing.8",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J3": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.8",
+            "fontSize": "$fontSize.10",
+            "letterSpacing": "$letterSpacing.9",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J4": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.9",
+            "fontSize": "$fontSize.9",
+            "letterSpacing": "$letterSpacing.10",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "Serif": {
+        "H1": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H2": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H3": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.4",
+            "letterSpacing": "$letterSpacing.2",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H4": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.3",
+            "letterSpacing": "$letterSpacing.3",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H5": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H6": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J1": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.6",
+            "fontSize": "$fontSize.12",
+            "letterSpacing": "$letterSpacing.7",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J2": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.7",
+            "fontSize": "$fontSize.11",
+            "letterSpacing": "$letterSpacing.8",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J3": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.8",
+            "fontSize": "$fontSize.10",
+            "letterSpacing": "$letterSpacing.9",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J4": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.9",
+            "fontSize": "$fontSize.9",
+            "letterSpacing": "$letterSpacing.10",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Desktop Web": {
+      "Sans": {
+        "H1": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.8",
+            "fontSize": "$fontSize.10",
+            "letterSpacing": "$letterSpacing.9",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H2": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.8",
+            "letterSpacing": "$letterSpacing.11",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H3": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H4": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H5": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H6": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-1",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small Bold": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J1": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.10",
+            "fontSize": "$fontSize.14",
+            "letterSpacing": "$letterSpacing.12",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J2": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.11",
+            "fontSize": "$fontSize.13",
+            "letterSpacing": "$letterSpacing.13",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J3": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.6",
+            "fontSize": "$fontSize.12",
+            "letterSpacing": "$letterSpacing.7",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J4": {
+          "value": {
+            "fontFamily": "$fontFamilies.helvetica-now-text",
+            "fontWeight": "$fontWeights.helvetica-now-text-0",
+            "lineHeight": "$lineHeights.7",
+            "fontSize": "$fontSize.11",
+            "letterSpacing": "$letterSpacing.8",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      },
+      "Serif": {
+        "H1": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.8",
+            "fontSize": "$fontSize.10",
+            "letterSpacing": "$letterSpacing.9",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H2": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.0",
+            "fontSize": "$fontSize.8",
+            "letterSpacing": "$letterSpacing.11",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H3": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.1",
+            "fontSize": "$fontSize.7",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H4": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.1",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H5": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "H6": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Large": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.2",
+            "fontSize": "$fontSize.5",
+            "letterSpacing": "$letterSpacing.6",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.3",
+            "fontSize": "$fontSize.2",
+            "letterSpacing": "$letterSpacing.4",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.1",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Body Extra Small": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.5",
+            "fontSize": "$fontSize.0",
+            "letterSpacing": "$letterSpacing.5",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J1": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.10",
+            "fontSize": "$fontSize.14",
+            "letterSpacing": "$letterSpacing.12",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J2": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.11",
+            "fontSize": "$fontSize.13",
+            "letterSpacing": "$letterSpacing.13",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J3": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.6",
+            "fontSize": "$fontSize.12",
+            "letterSpacing": "$letterSpacing.7",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "J4": {
+          "value": {
+            "fontFamily": "$fontFamilies.tiempos-text",
+            "fontWeight": "$fontWeights.tiempos-text-2",
+            "lineHeight": "$lineHeights.7",
+            "fontSize": "$fontSize.11",
+            "letterSpacing": "$letterSpacing.8",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    }
+  },
+  "Default color scheme": {
+    "text": {
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n700}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{.palette.n100}",
+        "type": "color"
+      },
+      "sale": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{.palette.p600}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "default": {
+        "value": "{.palette.n100}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n700}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{.palette.n200}",
+        "type": "color"
+      },
+      "sale": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{.palette.o500}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n300}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{.palette.p600}",
+        "type": "color"
+      }
+    },
+    "": {
+      "palette": {
+        "n100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "n200": {
+          "value": "#efeff0",
+          "type": "color"
+        },
+        "n300": {
+          "value": "#d0d1d3",
+          "type": "color"
+        },
+        "n400": {
+          "value": "#b6b8bc",
+          "type": "color"
+        },
+        "n500": {
+          "value": "#a2a3a8",
+          "type": "color"
+        },
+        "n600": {
+          "value": "#878993",
+          "type": "color"
+        },
+        "n700": {
+          "value": "#66676e",
+          "type": "color"
+        },
+        "n800": {
+          "value": "#4a4b51",
+          "type": "color"
+        },
+        "n900": {
+          "value": "#1a1a1a",
+          "type": "color"
+        },
+        "r500": {
+          "value": "#d9000c",
+          "type": "color"
+        },
+        "g400": {
+          "value": "#00875a",
+          "type": "color"
+        },
+        "p600": {
+          "value": "#6328e0",
+          "type": "color"
+        },
+        "o500": {
+          "value": "#ff6900",
+          "type": "color"
+        }
+      }
+    },
+    "🚧 Deprecated": {
+      "Primary": {
+        "N400 (White text)": {
+          "value": "#66676e",
+          "type": "color",
+          "description": "#66676E"
+        },
+        "N300 (Black text)": {
+          "value": "#a2a3a8",
+          "type": "color",
+          "description": "#A2A3A8"
+        },
+        "N250 (Black text)": {
+          "value": "#d0d1d3",
+          "type": "color",
+          "description": "#D0D1D3"
+        },
+        "N200 (Black text)": {
+          "value": "#efeff0",
+          "type": "color",
+          "description": "#EFEFF0"
+        },
+        "N100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "N900 (White text)": {
+          "value": "#1a1a1a",
+          "type": "color",
+          "description": "#1A1A1A"
+        }
+      },
+      "Brand": {
+        "O500": {
+          "value": "#ff6900",
+          "type": "color",
+          "description": "Zalando brand orange color. Only used for logos"
+        }
+      },
+      "Secondary": {
+        "R500": {
+          "value": "#d9000c",
+          "type": "color"
+        },
+        "G400": {
+          "value": "#00875a",
+          "type": "color"
+        },
+        "P600 Highlight Colour": {
+          "value": "#6328e0",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Light color scheme": {
+    "text": {
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n700}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{.palette.n100}",
+        "type": "color"
+      },
+      "sale": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{.palette.p600}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "default": {
+        "value": "{.palette.n100}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n700}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{.palette.n200}",
+        "type": "color"
+      },
+      "sale": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{.palette.o500}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "primary": {
+        "value": "{.palette.n900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{.palette.n300}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{.palette.g400}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{.palette.r500}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{.palette.p600}",
+        "type": "color"
+      }
+    },
+    "": {
+      "palette": {
+        "n100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "n200": {
+          "value": "#efeff0",
+          "type": "color"
+        },
+        "n300": {
+          "value": "#d0d1d3",
+          "type": "color"
+        },
+        "n400": {
+          "value": "#b6b8bc",
+          "type": "color"
+        },
+        "n500": {
+          "value": "#a2a3a8",
+          "type": "color"
+        },
+        "n600": {
+          "value": "#878993",
+          "type": "color"
+        },
+        "n700": {
+          "value": "#66676e",
+          "type": "color"
+        },
+        "n800": {
+          "value": "#4a4b51",
+          "type": "color"
+        },
+        "n900": {
+          "value": "#1a1a1a",
+          "type": "color"
+        },
+        "r500": {
+          "value": "#d9000c",
+          "type": "color"
+        },
+        "g400": {
+          "value": "#00875a",
+          "type": "color"
+        },
+        "p600": {
+          "value": "#6328e0",
+          "type": "color"
+        },
+        "o500": {
+          "value": "#ff6900",
+          "type": "color"
+        }
+      }
+    },
+    "🚧 Deprecated": {
+      "Primary": {
+        "N400 (White text)": {
+          "value": "#66676e",
+          "type": "color",
+          "description": "#66676E"
+        },
+        "N300 (Black text)": {
+          "value": "#a2a3a8",
+          "type": "color",
+          "description": "#A2A3A8"
+        },
+        "N250 (Black text)": {
+          "value": "#d0d1d3",
+          "type": "color",
+          "description": "#D0D1D3"
+        },
+        "N200 (Black text)": {
+          "value": "#efeff0",
+          "type": "color",
+          "description": "#EFEFF0"
+        },
+        "N100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "N900 (White text)": {
+          "value": "#1a1a1a",
+          "type": "color",
+          "description": "#1A1A1A"
+        }
+      },
+      "Brand": {
+        "O500": {
+          "value": "#ff6900",
+          "type": "color",
+          "description": "Zalando brand orange color. Only used for logos"
+        }
+      },
+      "Secondary": {
+        "R500": {
+          "value": "#d9000c",
+          "type": "color"
+        },
+        "G400": {
+          "value": "#00875a",
+          "type": "color"
+        },
+        "P600 Highlight Colour": {
+          "value": "#6328e0",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "ZDS library",
+      "Default color scheme",
+      "Light color scheme"
+    ]
+  }
+}
